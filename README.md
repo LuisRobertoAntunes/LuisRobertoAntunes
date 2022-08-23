@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luís Roberto </h1>
 <div>
-  <p>🎂 20 years</p>
+  <p>🎂 21 years</p>
   <p>⏳ Studying Information System in Anhanguera</p>
   <p>🍿 Anime addict</p>
   <p>👨🏼‍💻 Always trying to improve</p> 
