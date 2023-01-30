@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00D2FF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=450&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as))](https://git.io/typing-svg)
 
 ## <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
+<img align="right" width="50%" src="assets/thumb.jpg">
  
  ## <h2>Sobre mim</h2>
   <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art e prototipação de sites, principalmente na parte de front end!</p>
