@@ -1,5 +1,5 @@
 <div align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=00C3F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=00C3F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as)!" alt="Typing SVG" /></a>
 </div>
  <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
 <img align="right" width="50%" src="assets/thumb.jfif">
