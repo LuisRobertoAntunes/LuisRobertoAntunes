@@ -1,26 +1,62 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luís Roberto </h1>
-<div>
-  <p>🎂 21 years</p>
-  <p>⏳ Studying Information System in Anhanguera</p>
-  <p>🍿 Anime addict</p>
-  <p>👨🏼‍💻 Always trying to improve</p> 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00D2FF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=450&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as))](https://git.io/typing-svg)
+
+## <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
  
-<div >
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuisRobertoAntunes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRobertoAntunes&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+ ## <h2>Sobre mim</h2>
+  <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art e prototipação de sites, principalmente na parte de front end!</p>
+  <li> 👨🏻‍💻 Estudo focado em Front End.</li>
+  <li> 🎓 Faculdade em Sistema da Informação (5º Semestre).</li>
+  <li> 📚️ Atualmente estudando SASS e JavaScript.</li>
+
+  <br>
+  <br>
+
+  ## <h2>Linguagens e Ferramentas</h2>
+  <code><img width="40" src="assets/HTML.svg"></code> 
+  <code><img width="40" src="assets/CSS.svg"></code>
+  <code><img width="40" src="assets/JS.svg"></code>
+  <code><img width="40" src="assets/sql-logo.png"></code>
+  <code><img width="40" src="assets/git.svg"></code>
+  <code><img width="40" src="assets/figma-logo.png"></code>
+  <code><img width="40" src="assets/vsCode.svg"></code>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <br>
+  <br>
+
+<details open="">
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span>Estatísticas GitHub</span>
+</summary>
+<br>
+
+
+<p align="center">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LuisRobertoAntunes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="LuisRoberto Estatísticas" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRobertoAntunes&layout=compact&langs_count=7&theme=gotham" alt="Idiomas mais usados" />
+</p>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisRobertoAntunes}/count.svg"/></p> 
+  <br>
 </div>
 
-##  
-  
-<div> 
-  <a href="https://www.instagram.com/luis_robertoantunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisrobertoantunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-roberto-antunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</details>
+<br>
+
+<h2>
+  Conecte-se comigo
+  <a target="_blank">
+    <img src="assets/emoji-aperto-de-mão.png" height="25px">
+  </a>
+</h2>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-roberto-antunes/" target="_blank">
+    <code><img src="assets/linkedIn.png" width="40px"></code>
+  </a>
+  <a href = "mailto: luisrobertoantunes@gmail.com" target="_blank">
+    <code><img src="assets/gmail.png" width="45px" height="40"></code>
+  </a>
 </div>
