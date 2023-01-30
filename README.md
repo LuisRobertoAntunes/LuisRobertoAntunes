@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00D2FF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=450&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as))](https://git.io/typing-svg)
-
-## <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
+<div align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&pause=1000&color=00C3F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as)" alt="Typing SVG" /></a>
+</div>
+ <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
 <img align="right" width="50%" src="assets/thumb.jfif">
  
- ## <h2>Sobre mim</h2>
+ <h2 align="center">Sobre mim</h2>
   <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art e prototipação de sites, principalmente na parte de front end!</p>
   <li> 👨🏻‍💻 Estudo focado em Front End.</li>
   <li> 🎓 Faculdade em Sistema da Informação (5º Semestre).</li>
@@ -12,7 +13,8 @@
   <br>
   <br>
 
-  ## <h2>Linguagens e Ferramentas</h2>
+  ## <h2 align="center">Linguagens e Ferramentas</h2>
+  <div align="center">
   <code><img width="40" src="assets/HTML.svg"></code> 
   <code><img width="40" src="assets/CSS.svg"></code>
   <code><img width="40" src="assets/JS.svg"></code>
@@ -20,6 +22,7 @@
   <code><img width="40" src="assets/git.svg"></code>
   <code><img width="40" src="assets/figma-logo.png"></code>
   <code><img width="40" src="assets/vsCode.svg"></code>
+  </div>
   
   <br>
   <br>
@@ -38,7 +41,7 @@
 </p>
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre">Contagem de visitantes</p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisRobertoAntunes}/count.svg"/></p> 
   <br>
 </div>
@@ -46,7 +49,7 @@
 </details>
 <br>
 
-<h2>
+<h2 align="center">
   Conecte-se comigo
   <a target="_blank">
     <img src="assets/emoji-aperto-de-mão.png" height="25px">
