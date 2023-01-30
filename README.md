@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=00D2FF&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=450&lines=Ol%C3%A1%2C+Sejam+Bem+vindos(as))](https://git.io/typing-svg)
+<div align="center" >
 
 ## <h1 align="center">Me chamo Luís Roberto <img src="assets/emoji-hi.png" width="30px"></h1>
-<img align="right" width="50%" src="assets/thumb.jpg">
  
  ## <h2>Sobre mim</h2>
   <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art e prototipação de sites, principalmente na parte de front end!</p>
@@ -12,7 +11,8 @@
   <br>
   <br>
 
-  ## <h2>Linguagens e Ferramentas</h2>
+  ## <h2 align="center">Linguagens e Ferramentas</h2>
+  <div align="center">
   <code><img width="40" src="assets/HTML.svg"></code> 
   <code><img width="40" src="assets/CSS.svg"></code>
   <code><img width="40" src="assets/JS.svg"></code>
@@ -20,7 +20,7 @@
   <code><img width="40" src="assets/git.svg"></code>
   <code><img width="40" src="assets/figma-logo.png"></code>
   <code><img width="40" src="assets/vsCode.svg"></code>
-  
+  </div>
   <br>
   <br>
 
@@ -46,8 +46,7 @@
 </details>
 <br>
 
-<h2>
-  Conecte-se comigo
+<h2 align="center"> Conecte-se comigo
   <a target="_blank">
     <img src="assets/emoji-aperto-de-mão.png" height="25px">
   </a>
