@@ -5,10 +5,9 @@
 <img align="right" width="50%" src="assets/thumb.jfif">
  
  <h2 align="center">Sobre mim</h2>
-  <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art e prototipação de sites, principalmente na parte de front end!</p>
-  <li> 👨🏻‍💻 Estudo focado em JavaScript.</li>
-  <li> 🎓 Faculdade em Sistema da Informação (6º Semestre).</li>
-  <li> 📚️ Atualmente estudando SASS e JavaScript.</li>
+  <p>Sempre gostei de Tecnologia. Sou apaixonado por programação, design gráfico, píxel art!</p>
+  
+  <li> 🎓 Faculdade em Sistema da Informação (7º Semestre).</li>
 
   <br>
   <br>
